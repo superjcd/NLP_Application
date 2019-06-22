@@ -9,5 +9,5 @@
 
 ### 综合应用
 - [使用genism进行词嵌入训练](https://github.com/superjcd/NLP_Application/tree/master/WordEmbedding/genism_w2v)
-- 基于textCNN的文本分类实现
+- [基于textCNN的文本分类实现](https://github.com/superjcd/NLP_Application/tree/master/textClassification)
 - 聊天机器人(闲聊型机器人)
