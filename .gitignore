@@ -1,3 +1,6 @@
 .DS_Store
 .idea/
 evaluation/word_segment/data/*.txt
+*.model
+*.npy
+WordEmmbedding/corpus/wiki/*.txt
