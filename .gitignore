@@ -1,6 +1,5 @@
 .DS_Store
 .idea/
-evaluation/word_segment/data/*.txt
+*.txt
 *.model
 *.npy
-WordEmmbedding/corpus/wiki/*.txt
